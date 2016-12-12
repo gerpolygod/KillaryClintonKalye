@@ -1,0 +1,16 @@
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\KillaryClintonKalye.exe.config
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\KillaryClintonKalye.exe
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\KillaryClintonKalye.pdb
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\LeagueSharp.Common.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\LeagueSharp.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\SharpDX.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\LeagueSharp.Data.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\clipper_library.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\obj\Debug\KillaryClintonKalye.csprojResolveAssemblyReference.cache
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\obj\Debug\KillaryClintonKalye.exe
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\obj\Debug\KillaryClintonKalye.pdb
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\fHsm\Desktop\GoldmanSharp\GoldmanSharp\KillaryClintonKalye\KillaryClintonKalye\bin\Debug\clipper_library.pdb
